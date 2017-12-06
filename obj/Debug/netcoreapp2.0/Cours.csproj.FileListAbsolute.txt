@@ -1,0 +1,10 @@
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/bin/Debug/netcoreapp2.0/Cours.deps.json
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/bin/Debug/netcoreapp2.0/Cours.runtimeconfig.json
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/bin/Debug/netcoreapp2.0/Cours.runtimeconfig.dev.json
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/bin/Debug/netcoreapp2.0/Cours.dll
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/bin/Debug/netcoreapp2.0/Cours.pdb
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/obj/Debug/netcoreapp2.0/Cours.csproj.CoreCompileInputs.cache
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/obj/Debug/netcoreapp2.0/Cours.AssemblyInfoInputs.cache
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/obj/Debug/netcoreapp2.0/Cours.AssemblyInfo.cs
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/obj/Debug/netcoreapp2.0/Cours.dll
+/home/ann-bonny/Bureau/Cours/03-dotNET-Csharp/src/Cours/obj/Debug/netcoreapp2.0/Cours.pdb

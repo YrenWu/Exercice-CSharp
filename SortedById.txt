@@ -1,0 +1,11 @@
+1,Lion,200,12/23/88,Maron,4,True
+2,Elephant,700,12/23/78,Noir,4,True
+3,Tigre,150,12/23/98,Blanc,4,True
+4,Requin,10,12/23/78,Blanc,0,True
+5,Chat,5,12/23/00,Noir,4,True
+6,Mouton,25,12/23/01,Blanc,4,True
+7,Chevre,35,12/23/12,Noir,4,True
+8,Poule,1,12/23/09,Maron,2,True
+9,Porc,20,12/23/03,Blanche,4,True
+10,Singe,25,12/23/04,Noir,4,True
+11,Giraffe,175,12/23/13,Maron et Noir,4,True
